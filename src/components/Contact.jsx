@@ -261,7 +261,7 @@ const Contact = () => {
               </IconWrapper>
               <InfoContent>
                 <InfoTitle>Location</InfoTitle>
-                <InfoText>Chilakaluripet, Andhra Pradesh, India</InfoText>
+                <InfoText>palakollu, Andhra Pradesh, India</InfoText>
               </InfoContent>
             </ContactCard>
             <SocialLinks>
